@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Preetambeeravelli
 - 👀 I’m interested in developing interesting apps for apple devices.
-- 🌱 I’m currently learning Swift UI
+- 🌱 I’m currently loving Swift UI
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
